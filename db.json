@@ -1,0 +1,13 @@
+{
+    "users": [
+      { 
+        "id": 1, 
+        "username": "Valentina Jimenez", 
+        "age": "17", 
+        "email": "vs@gmail.com", 
+        "address": "calle", 
+        "password": "123", 
+        "phone": "1234567890"
+      }
+    ]
+  }
